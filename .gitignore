@@ -1,0 +1,7 @@
+/db
+/incremental_db
+/keyboard_matrix.qsf
+/keyboard_matrix.qws
+/output_files
+/*.bak
+
